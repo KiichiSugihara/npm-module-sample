@@ -1,0 +1,22 @@
+{
+  "name":"kiichi-sugihara-sample",
+  "version": "1.0.0",
+  "description": "npm module sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiichiSugihara/npm-module-sample.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Kiichi Sugihara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KiichiSugihara/npm-module-sample/issues"
+  },
+  "homepage": "https://github.com/KiichiSugihara/npm-module-sample#readme"
+}
